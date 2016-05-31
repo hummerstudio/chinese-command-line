@@ -2,7 +2,7 @@ alias 别名="alias"
 
 #基本命令
 alias 进="cd"
-alias 退=".."
+alias 退="cd .."
 alias 回家="cd ~"
 alias 列="ls -l"
 
