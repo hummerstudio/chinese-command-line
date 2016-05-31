@@ -6,6 +6,9 @@ alias 退="cd .."
 alias 回家="cd ~"
 alias 列="ls -l"
 
+alias 新建文件="touch"
+alias 新建文件夹="mkdir -p"
+
 alias 删除文件="rm"
 alias 删除文件夹="rm -r"
 
