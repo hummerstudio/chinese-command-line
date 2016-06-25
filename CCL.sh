@@ -12,6 +12,9 @@ alias 新建文件夹="mkdir -p"
 alias 删除文件="rm"
 alias 删除文件夹="rm -r"
 
+alias 月历="cal"
+alias 年历="cal -y"
+
 alias 历史="history"
 
 alias 文件夹大小="du -sh"
